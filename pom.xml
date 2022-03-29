@@ -26,6 +26,5 @@
       <url>http://192.168.72.199:8082/artifactory/maven_repo</url>
       <layout>default</layout>
     </repository>
-    ...
-</distributionManagement>
+  </distributionManagement>
 </project>
