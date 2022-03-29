@@ -15,8 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-<build>
-   <build>
+  <build>
       <finalName>teste</finalName>
-   </build>
+  </build>
 </project>
